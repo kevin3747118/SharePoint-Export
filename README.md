@@ -1,2 +1,2 @@
-# ms.spExport
-Microsoft Sharepoint Export
+# spExport
+Microsoft Sharepoint Export By PowerShell
